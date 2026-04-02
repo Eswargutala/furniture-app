@@ -11,7 +11,7 @@ const productData = [
     price: 25000,
     category: "Living Room",
     image:
-      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133054/61uK6FIyTsL._AC_UF894_1000_QL80__myriuk.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const productData = [
     price: 5000,
     category: "Chair",
     image:
-      "https://images.unsplash.com/photo-1519947486511-46149fa0a254?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775132961/28402-HERO_e571037d-c4e7-4e78-b49b-810c2ade01cc_ptmf2p.jpg",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const productData = [
     price: 10000,
     category: "Table",
     image:
-      "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133053/41V8a30UQcL._AC_SR290_290__xnvor2.jpg",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const productData = [
     price: 3500,
     category: "Decor",
     image:
-      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775132924/71xaR3qz7TL._AC_UF894_1000_QL80__ormcfs.jpg",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const productData = [
     price: 30000,
     category: "Bedroom",
     image:
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133093/Kishani_20Perera_Point_20Dume_20Project_Photographer_20Anthony_20Barcelo_oj28at.jpg",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const productData = [
     price: 8500,
     category: "Office",
     image:
-      "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133135/Swift-chair-1_fdeuzg.jpg",
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ const productData = [
     price: 18000,
     category: "Dining",
     image:
-      "https://images.unsplash.com/photo-1577140917170-285929fb55b7?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133156/81e9-6jgWRL._AC_UF894_1000_QL80__m5xgqk.jpg",
   },
   {
     id: 8,
@@ -67,7 +67,7 @@ const productData = [
     price: 12000,
     category: "Storage",
     image:
-      "https://images.unsplash.com/photo-1594026112284-02bb6f3352fe?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133201/71lKNCUF8kL._AC_UF894_1000_QL80__frt00a.jpg",
   },
   {
     id: 9,
@@ -75,7 +75,31 @@ const productData = [
     price: 14000,
     category: "Living Room",
     image:
-      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?auto=format&fit=crop&w=400&q=80",
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133242/brimnes-tv-unit-white__1454290_pe991599_s5_kvkkuj.jpg",
+  },
+  {
+    id: 10,
+    name: "Recliner Sofa",
+    price: 35000,
+    category: "Living Room",
+    image:
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133265/Jaron-3-Seater-Dual-Recliner-Wide-Arm-Sofa-Performance-Arvo-Dune-Square-Set_3-1742205787_k0ql2o.jpg",
+  },
+  {
+    id: 11,
+    name: "Coffee Table",
+    price: 8000,
+    category: "Table",
+    image:
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133055/Luxury-New-design-Living-Room-Furniture-Antique-End-Marble-Base-Side-Round-Metal-Storage-Gold-Modern-Design-Black-Coffee-Table.jpg_300x300_xkvioi.jpg",
+  },
+  {
+    id: 12,
+    name: "Nightstand",
+    price: 6000,
+    category: "Bedroom",
+    image:
+      "https://res.cloudinary.com/ddsjdarbq/image/upload/v1775133301/710Zvao8cDL_ubzbpu.jpg",
   },
 ];
 
