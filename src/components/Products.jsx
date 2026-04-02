@@ -13,7 +13,6 @@ export default function Products({ products, addToCart }) {
           <div className="product-card" key={item.id}>
             <div className="product-image-wrap">
               <img src={item.image} alt={item.name} className="product-image" />
-              <span className="product-category">{item.category}</span>
             </div>
 
             <div className="product-info">
